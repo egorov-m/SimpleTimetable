@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SimpleTimetable</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_today">Today</string>
+    <string name="title_week">Week</string>
+
+    <string name="hint_select_faculty">Select a faculty</string>
+    <string name="hint_select_direction">Select a direction</string>
+    <string name="hint_select_course">Select a course</string>
+    <string name="hint_select_group">Select a group</string>
+    <string name="hint_select_week">Select a week</string>
+
+    <string name="example_faculty">IIT</string>
+    <string name="example_week">First week</string>
+    <string name="example_direction">Software Engineering</string>
+    <string name="example_course">3</string>
+    <string name="example_group">PrI-302</string>
+
+    <string name="example_day">Monday</string>
+    <string name="example_start_time">11:20</string>
+    <string name="example_end_time">12:50</string>
+    <string name="example_subject_name">Application programming technologies</string>
+    <string name="example_daily_timetable">2 pairs from 11:20 to 14:45</string>
+
+    <string name="title_classroom">Classroom:</string>
+    <string name="example_classroom">1 corpus, 132</string>
+    <string name="title_teachers">Teachers:</string>
+    <string name="example_teachers">Verigin N.V.</string>
+</resources>
